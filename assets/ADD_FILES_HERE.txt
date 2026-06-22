@@ -1,0 +1,5 @@
+Add your files in this assets folder with these exact names:
+1. Maui Jim Video.mp4
+2. Maui Jim Logo White.png
+
+Important: GitHub is case-sensitive. Keep the exact spelling, spaces and extension.
